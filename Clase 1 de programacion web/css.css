@@ -1,0 +1,23 @@
+.{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+	background: url('Cosmos.jpg') no-repeat;
+	background-size: cover;
+	font-family: 'century gothic', sans-serif;
+}
+.caja{
+	width: 500px;
+	background: rgba(0, 0, 0, 0.5);
+	margin: 0 auto;
+	margin-top: 4%;
+	padding: 20px;
+	color: #449C97;
+	text-align: center;
+
+	}
+.caja-img {
+border-radius: 10%;
+
